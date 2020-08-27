@@ -10,5 +10,5 @@ Press <b>i</b> to add extra 10 points. :smile:
 
 # My YouTube Channel : www.youtube.com/mrgaurav
 
-### ThankYou!
+### Thank You
 
