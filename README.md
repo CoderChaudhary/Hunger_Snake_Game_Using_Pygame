@@ -1,4 +1,4 @@
-# Hunger Snake Game by Gaurav Chaudhary [![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+# Hunger Snake Game by Gaurav Chaudhary [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 This Snake Game Is Made Using Python & Pygame Module.
 Hope You Will Like The Game.. and also You can use the code to make your own version of game.
 
